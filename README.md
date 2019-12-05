@@ -21,4 +21,4 @@ run:
     
 After training, run "plot.py" to show the learning curves.
 
-<img src='https://github.com/HuangxingLin123/Learning-Rate-Dropout/tree/master/img/adam.png' align="right" width=380>
+<img src='https://github.com/HuangxingLin123/Learning-Rate-Dropout/blob/master/img/adam_test.png' width=380>
