@@ -20,3 +20,5 @@ run:
     python main.py --model=resnet --optim=rmsprop --lr=0.001
     
 After training, run "plot.py" to show the learning curves.
+
+< img src='https://github.com/HuangxingLin123/Learning-Rate-Dropout/tree/master/img/adam.png' align="right" width=380>
