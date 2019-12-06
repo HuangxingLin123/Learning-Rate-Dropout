@@ -2,7 +2,7 @@
 Pytorch implementation of Learning Rate Dropout.
 
 Train ResNet-34 for Cifar10:
-
+Paper Link: https://arxiv.org/pdf/1912.00144.pdf
 run:
 
     python main.py --model=resnet --optim=adam_lrd --lr=0.001 --LRD_p=0.5
